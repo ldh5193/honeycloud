@@ -1,0 +1,5 @@
+rootProject.name = 'honeycloud'
+include 'api-server'
+include 'grpc-server'
+include 'grpc-interface'
+
