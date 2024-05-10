@@ -1,0 +1,9 @@
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/ldh5193/honeycloud-api-server.git
+[submodule "honeycloud-grpc-interface"]
+	path = honeycloud-grpc-interface
+	url = https://github.com/ldh5193/honeycloud-grpc-interface.git
+[submodule "honeycloud-grpc-server"]
+	path = honeycloud-grpc-server
+	url = https://github.com/ldh5193/honeycloud-grpc-server.git
